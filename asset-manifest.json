@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Figma-UI/static/css/main.34ec01d1.css",
+    "main.js": "/Figma-UI/static/js/main.365f3548.js",
+    "static/media/profilepic.svg": "/Figma-UI/static/media/profilepic.53e5f30c7cd4e5f9e4bf5f58948e91aa.svg",
+    "static/media/setting.svg": "/Figma-UI/static/media/setting.9465eeba3e0e875acdc32a51e03c8e08.svg",
+    "static/media/patient.svg": "/Figma-UI/static/media/patient.5a725b84cc4873069b332bb572cae053.svg",
+    "static/media/upload.svg": "/Figma-UI/static/media/upload.f94c9044ac1a6f0bf2192e8604bdd4f3.svg",
+    "static/media/folder.svg": "/Figma-UI/static/media/folder.f0d553e4d8844edf0286cdb5659fb9f0.svg",
+    "static/media/report.svg": "/Figma-UI/static/media/report.9bf37e20a9e29558fa8f75ef3e5f1299.svg",
+    "static/media/logout.svg": "/Figma-UI/static/media/logout.29c4c0703cd71a3c915f9cb48baa57ea.svg",
+    "static/media/note.svg": "/Figma-UI/static/media/note.b4a0df37a24c052c3b26d4203b984341.svg",
+    "static/media/graph.svg": "/Figma-UI/static/media/graph.a7fed2b2172706a77a9e301abd2173ba.svg",
+    "index.html": "/Figma-UI/index.html",
+    "static/media/plus.svg": "/Figma-UI/static/media/plus.77be45e373f2348e1274a1de9e94d3d4.svg",
+    "main.34ec01d1.css.map": "/Figma-UI/static/css/main.34ec01d1.css.map",
+    "main.365f3548.js.map": "/Figma-UI/static/js/main.365f3548.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34ec01d1.css",
+    "static/js/main.365f3548.js"
+  ]
+}
